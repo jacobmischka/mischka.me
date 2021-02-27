@@ -1,0 +1,23 @@
+{
+  "name": "mischka.me",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --input=src --serve",
+    "build": "eleventy --input=src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jacobmischka/mischka.me.git"
+  },
+  "author": "Jacob Mischka <jacob@mischka.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobmischka/mischka.me/issues"
+  },
+  "homepage": "https://github.com/jacobmischka/mischka.me#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
