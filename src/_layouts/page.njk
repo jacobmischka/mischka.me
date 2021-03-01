@@ -1,0 +1,21 @@
+---
+title: www.mischka.me
+siteTitle: www.mischka.me
+---
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" href="/css/global.css" />
+		<title>{{ title }}</title>
+	</head>
+
+	<body>
+		{% include 'header.njk' %}
+		<main>
+			<h1>{{ title }}</h1>
+			{{ content | safe }}
+		</main>
+
+		{% include 'footer.njk' %}
+	</body>
+</html>
