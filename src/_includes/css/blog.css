@@ -7,6 +7,7 @@
 	display: block;
 }
 
-.blog-list li time {
+.blog-list li time,
+article.post time {
 	color: var(--secondary-text-color);
 }

@@ -11,7 +11,8 @@
 	--heading-font-weight: normal;
 }
 
-html, body {
+html,
+body {
 	padding: 0;
 }
 
@@ -19,13 +20,20 @@ html {
 	font-family: var(--font-family);
 	font-weight: var(--font-weight);
 	color: var(--text-color);
+	font-size: 1.25em;
 }
 
 main {
 	padding: 1em;
+	line-height: 1.75;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	font-weight: var(--heading-font-weight);
 }
 
@@ -37,4 +45,12 @@ a {
 a:hover,
 a:focus {
 	text-decoration: underline;
+}
+
+.lead {
+	font-size: 1.1em;
+}
+
+p {
+	margin-bottom: 1.5em;
 }
