@@ -1,0 +1,12 @@
+.blog-list li {
+	list-style: none;
+}
+
+.blog-list li a {
+	font-size: 1.5em;
+	display: block;
+}
+
+.blog-list li time {
+	color: var(--secondary-text-color);
+}

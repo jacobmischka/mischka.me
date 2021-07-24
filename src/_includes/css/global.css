@@ -1,0 +1,40 @@
+:root {
+	--primary-color: orange;
+	--link-color: var(--primary-color);
+
+	--text-color: #111;
+	--secondary-text-color: #ccc;
+
+	--font-family: sans-serif;
+	--font-weight: 500;
+
+	--heading-font-weight: normal;
+}
+
+html, body {
+	padding: 0;
+}
+
+html {
+	font-family: var(--font-family);
+	font-weight: var(--font-weight);
+	color: var(--text-color);
+}
+
+main {
+	padding: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: var(--heading-font-weight);
+}
+
+a {
+	color: var(--link-color);
+	text-decoration: none;
+}
+
+a:hover,
+a:focus {
+	text-decoration: underline;
+}

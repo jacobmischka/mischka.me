@@ -1,0 +1,22 @@
+---
+layout: page
+title: Blog
+pagination:
+  data: collections.post
+  size: 10
+  alias: posts
+---
+<ul class="blog-list">
+	{%- for post in posts -%}
+	<li>
+		<a href="{{ post.url }}">{{ post.data.title }}</a>
+		<time>{% formatDate post.data.date %}</time>
+		—
+		{% if post.templateContent %}
+			{{ post.templateContent | striptags | truncate(50) }}
+		{% else %}
+			<i>No content</i>
+		{% endif %}
+	</li>
+	{%- endfor -%}
+</ul>
