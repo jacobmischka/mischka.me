@@ -1,29 +1,42 @@
 {
-  "name": "mischka.me",
-  "version": "1.0.0",
-  "description": "My personal website",
-  "main": "index.js",
-  "scripts": {
-    "start": "eleventy --input=src --serve",
-    "build": "eleventy --input=src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/jacobmischka/mischka.me.git"
-  },
-  "author": "Jacob Mischka <jacob@mischka.me>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jacobmischka/mischka.me/issues"
-  },
-  "homepage": "https://github.com/jacobmischka/mischka.me#readme",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
-    "@11ty/eleventy-plugin-rss": "^1.1.0",
-    "eslint": "^7.21.0",
-    "postcss": "^8.2.6",
-    "postcss-easy-import": "^3.0.0",
-    "postcss-preset-env": "^6.7.0",
-    "prettier": "^2.3.2"
-  }
+	"name": "mischka.me",
+	"version": "1.0.0",
+	"description": "My personal website",
+	"main": "index.js",
+	"scripts": {
+		"start": "run-p start:*",
+		"build": "run-s build:*",
+		"start:11ty": "eleventy --input=src --serve",
+		"start:rollup": "rollup -c -w",
+		"build:11ty": "eleventy --input=src",
+		"build:rollup": "rollup -c"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/jacobmischka/mischka.me.git"
+	},
+	"author": "Jacob Mischka <jacob@mischka.me>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jacobmischka/mischka.me/issues"
+	},
+	"homepage": "https://github.com/jacobmischka/mischka.me#readme",
+	"devDependencies": {
+		"@11ty/eleventy": "^0.11.1",
+		"@11ty/eleventy-plugin-rss": "^1.1.0",
+		"@rollup/plugin-commonjs": "^19.0.1",
+		"@rollup/plugin-node-resolve": "^13.0.3",
+		"eslint": "^7.21.0",
+		"npm-run-all": "^4.1.5",
+		"postcss": "^8.2.6",
+		"postcss-easy-import": "^3.0.0",
+		"postcss-preset-env": "^6.7.0",
+		"prettier": "^2.3.2",
+		"rollup": "^2.53.3",
+		"rollup-plugin-css-only": "^3.1.0",
+		"rollup-plugin-svelte": "^7.1.0"
+	},
+	"dependencies": {
+		"svelte": "^3.40.2"
+	}
 }

@@ -5,8 +5,13 @@ siteTitle: www.mischka.me
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<link rel="stylesheet" href="/css/styles.css" />
 		<title>{{ title }}</title>
+		<link rel="stylesheet" href="/css/styles.css" />
+		{% if styles %}
+			{% for style in styles %}
+				<link rel="stylesheet" href="{{ style }}" />
+			{% endfor %}
+		{% endif %}
 	</head>
 
 	<body>
@@ -17,5 +22,11 @@ siteTitle: www.mischka.me
 		</main>
 
 		{% include 'footer.njk' %}
+
+		{% if scripts %}
+			{% for script in scripts %}
+				<script src="{{ script }}"></script>
+			{% endfor %}
+		{% endif %}
 	</body>
 </html>
