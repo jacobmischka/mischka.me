@@ -4,8 +4,8 @@
 	"description": "My personal website",
 	"main": "index.js",
 	"scripts": {
-		"start": "run-p start:*",
-		"build": "run-s build:*",
+		"start": "run-p start:11ty",
+		"build": "run-s build:11ty",
 		"start:11ty": "eleventy --input=src --serve",
 		"start:rollup": "rollup -c -w",
 		"build:11ty": "eleventy --input=src",
