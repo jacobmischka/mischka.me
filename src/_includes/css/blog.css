@@ -6,7 +6,12 @@
 	list-style: none;
 }
 
+.blog-list li ~ li {
+	margin-top: 2em;
+}
+
 .blog-list li a {
+	line-height: 1;
 	font-size: 1.5em;
 	display: block;
 }

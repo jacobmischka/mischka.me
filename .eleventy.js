@@ -8,6 +8,17 @@ module.exports = eleventyConfig => {
 		return formatter.format(date);
 	});
 
+	eleventyConfig.addShortcode('postIndexLink', function (collections) {
+		const page = this.page;
+		const isArchived = collections.archived.some(
+			post => post.url === page.url
+		);
+
+		return isArchived
+			? '<a href="/archive">Back to archive</a>'
+			: '<a href="/blog">Back to all posts</a>';
+	});
+
 	return {
 		templateFormats: [
 			'html',
