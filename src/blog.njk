@@ -10,7 +10,7 @@ pagination:
     {%- for post in posts -%}
 	<li>
 	    <a href="{{ post.url }}">{{ post.data.title }}</a>
-	    <time>{% formatDate post.data.date %}</time>
+	    <time>{% formatDate post.date %}</time>
 
 	    {% if post.data.lead %}
 		— {{ post.data.lead }}
