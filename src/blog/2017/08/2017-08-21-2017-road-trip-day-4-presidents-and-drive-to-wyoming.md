@@ -1,5 +1,5 @@
 ---
-type: 'post'
+layout: post
 title: '2017 Road Trip - Day 4: Presidents and drive to Wyoming'
 date: 2017-08-21
 tags: archived

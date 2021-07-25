@@ -1,5 +1,5 @@
 ---
-type: 'post'
+layout: post
 title: '2017 Road Trip - Day 6: Yellowstone National Park'
 date: 2017-08-23
 tags: archived

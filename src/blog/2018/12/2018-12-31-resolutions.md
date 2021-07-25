@@ -1,5 +1,5 @@
 ---
-type: 'post'
+layout: post
 title: 'Resolutions'
 date: 2018-12-31
 ---

@@ -1,5 +1,5 @@
 ---
-type: 'post'
+layout: post
 title: '2017 Road Trip - Day 1: Driving to Omaha'
 date: 2017-08-18
 tags: archived

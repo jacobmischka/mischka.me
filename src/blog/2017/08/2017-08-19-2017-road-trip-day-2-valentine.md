@@ -1,5 +1,5 @@
 ---
-type: 'post'
+layout: post
 title: '2017 Road Trip - Day 2: Valentine'
 date: 2017-08-19
 tags: archived

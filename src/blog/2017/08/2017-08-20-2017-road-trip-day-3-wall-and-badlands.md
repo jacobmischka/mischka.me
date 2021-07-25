@@ -1,5 +1,5 @@
 ---
-type: 'post'
+layout: post
 title: '2017 Road Trip - Day 3: Wall and Badlands'
 date: 2017-08-20
 tags: archived

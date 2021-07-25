@@ -1,5 +1,5 @@
 ---
-type: 'post'
+layout: post
 title: '2017 Road Trip - Day 5: More Grand Teton and Yellowstone'
 date: 2017-08-22
 tags: archived
