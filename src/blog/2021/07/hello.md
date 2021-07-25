@@ -3,6 +3,7 @@ layout: post
 tags: post
 title: Hello, world!
 lead: Welcome!
+date: 2021-07-24
 ---
 
 Thanks for checking out my blog!
