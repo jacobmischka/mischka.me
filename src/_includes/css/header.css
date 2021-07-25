@@ -1,7 +1,7 @@
 header.site-header {
 	display: flex;
 	align-items: center;
-	padding: 0.25em 0.5em;
+	padding: 1em;
 }
 
 header.site-header a:visited {
@@ -23,9 +23,13 @@ header.site-header nav ul {
 	margin: 0;
 }
 
-
 header.site-header nav ul li {
 	list-style: none;
 	margin: 0.5em;
 }
 
+@media (min-width: 768px) {
+	header.site-header {
+		padding: 2em;
+	}
+}

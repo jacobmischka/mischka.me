@@ -1,3 +1,7 @@
+.blog-list {
+	padding-left: 0;
+}
+
 .blog-list li {
 	list-style: none;
 }
