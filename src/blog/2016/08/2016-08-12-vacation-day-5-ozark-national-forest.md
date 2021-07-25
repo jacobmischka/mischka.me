@@ -9,13 +9,13 @@ Today was the main nature day of our trip: a short hike in Ozark National Forest
 
 After an hour and a half drive on narrow and curvy country highways, and another 20 minutes on a steeply inclined and even narrower and curvier gravel road, we reached Whitaker's Point Trailhead where the sign informed us it's a 3.1 mile round-trip hike to the outcropping. We parked the car and headed onto the trail with our backpacks in tow, and I was soaking wet within minutes. It was very hot and I'm pretty out of shape.
 
-![Small waterfall and enclosed shelter created by outcropping of limestone](waterfall.jpg)
+![Small waterfall and enclosed shelter created by outcropping of limestone](../waterfall.jpg)
 
 Along the way, we crossed over several brooks, and about halfway to the Point we took a slight detour when we saw one of the brooks create a small waterfall. We jumped down the 8ish foot drop into a picturesque scene: the small waterfall creating a small pool flowing into a brook and the outcropping creating an expansive shelter, complete with campfire remnants and makeshift stone seats from previous campers. An extremely worthwhile detour.
 
 Once we were back on the trail, we came across several vantage points with great views of the valley and surrounding hills, each one better than the last; endless trees, the view was gorgeous. After about four outlooks I thought might be the one, we found it and were sure of it. The outcropping extends straight out of the hillside creating a perfect plateau. Being careful to not get too close to the edge—from which falling would mean certain death—we stopped at our destination to take in the view and eat the food we brought with us. Aside from a single red barn far in the distance, nothing but miles of rolling, unfiltered nature stretched to the reaches of our vision. It was without question the best view I've been able to witness.
 
-![Me on Whitaker's Point](whitakers-point.jpg)
+![Me on Whitaker's Point](../whitakers-point.jpg)
 
 I'm normally pretty afraid of heights, but over the course of this trip I've had the opportunity to drive across extremely long and narrow bridges spanning huge rivers, look down from massive hills in Arkansas, and peer into nearly endless depths in Mammoth Cave without much problem. I'm not sure why. I think it's probably because we drove halfway across the country to see these marvels of nature, making being afraid to step near an edge seem pretty ridiculous. The contrast from my normal fear was especially noticeable here on Whitaker's Point where dis Hopefully this fear remains conquered once the thrill of the trip settles.
 
@@ -26,7 +26,7 @@ Originally we planned to visit the nearby Buffalo River afterward, but I sort of
 After showering, changing, and recharging in the hotel room, we had some time to kill until the Illusionist show began at 8 o'clock. We went to check out [Quigley Castle][quigley], but turns out it's closed on Thursdays so that was postponed until tomorrow. Because we were never able to find any springs, we stopped by the visitor's center to learn where they are. The man running the desk handed us a map with all the springs labeled and recommended we check out Blue Spring, about a 15 minute drive away. Enough to kill an hour and a half until our dinner reservations at 6.
 
 <figure>
-	<img src="blue-spring-auditorium.jpg" alt="" />
+	<img src="../blue-spring-auditorium.jpg" alt="" />
 	<figcaption>
 		Eerie auditorium at Blue Spring, where we skipped the documentaries
 	</figcaption>

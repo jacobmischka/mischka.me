@@ -5,23 +5,23 @@ date: 2016-08-08
 tags: ['archived', 'vacation']
 ---
 
-![Mammoth Cave entrance sign](mammoth-cave.jpg)
+![Mammoth Cave entrance sign](../mammoth-cave.jpg)
 
 On the first actual day of our vacation, we rose early to spend the day in Mammoth National Park. After a disappointing but not entirely unexpected breakfast, we drove the 5 miles from our hotel to the park. It was a beautiful drive. On the way, we passed a billboard advertising kayak rentals, and agreed that we wanted to do that after the tours.
 
-![Mouth of Mammoth Cave](mammoth-cave-mouth.jpg)
+![Mouth of Mammoth Cave](../mammoth-cave-mouth.jpg)
 
 Our first tour started at 9. We walked from the meeting point at the Visitor's Center to the main entrance of the cave. The surrounding woods and the mouth of the cave were gorgeous, and the cold air from the cave was a stark change from the hot air in the woods.
 
 The History tour was pretty good overall. The cave was impressive, the tour guide and her presentation on the history of the cave were decent, but the other members of the tour group got on my nerves. A lot of young kids that were noisy and excited, and a large group of high school kids. Definitely cool, but I was hoping for more in the second tour.
 
-![Stalactites in Mammoth Cave](dripstones-mammoth-cave.jpg)
+![Stalactites in Mammoth Cave](../dripstones-mammoth-cave.jpg)
 
 The Domes and Dripstone tour did not disappoint. The tour guide was an animated young woman, the presentation was more interesting, the section of the cave was more interesting , and the group was a lot better. The large, open rooms and time-tested passageways of the first tour were cool, but the stalactites and more varied areas in the second were amazing. It was great, I would definitely recommend it over the seemingly more popular history tour.
 
 After the tours I was starving, so we ate a quick lunch at the Sonic across the street from our hotel. After a brief rest, we were off to the kayak shop that we passed earlier.
 
-![Green River](green-river.jpg)
+![Green River](../green-river.jpg)
 
 The route we would be taking on Green River was slightly longer than we anticipated at 7.5 miles, but we excitedly followed the guide from the shop to the river nonetheless. I'd never kayaked before, so I was a little worried about being terrible at it and capsizing the craft. Thankfully, it's pretty straightforward and I got the hang of it pretty quickly.
 

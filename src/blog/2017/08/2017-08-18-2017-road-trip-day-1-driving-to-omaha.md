@@ -13,13 +13,13 @@ We stopped for breakfast at [Off The Wall][off-the-wall] in Rochelle, IL. I had 
 
 <div class="carousel">
 	<figure>
-		<img alt="Off the Wall mural" src="off-the-wall.jpg" />
+		<img alt="Off the Wall mural" src="../off-the-wall.jpg" />
 	</figure>
 	<figure>
-		<img alt="Off the Wall pie mural" src="off-the-wall-pie.jpg" />
+		<img alt="Off the Wall pie mural" src="../off-the-wall-pie.jpg" />
 	</figure>
 	<figure>
-		<img alt="The skillet I ate" src="off-the-wall-skillet.jpg" />
+		<img alt="The skillet I ate" src="../off-the-wall-skillet.jpg" />
 	</figure>
 </div>
 
@@ -27,10 +27,10 @@ Next we stopped at the _super exciting_ [World's Largest Truckstop][truckstop], 
 
 <div class="carousel">
 	<figure>
-		<img alt="World's Largest Truckstop" src="truckstop.jpg" />
+		<img alt="World's Largest Truckstop" src="../truckstop.jpg" />
 	</figure>
 	<figure>
-		<img alt="Truckstop amenities" src="truckstop-amenities.jpg" />
+		<img alt="Truckstop amenities" src="../truckstop-amenities.jpg" />
 	</figure>
 </div>
 
@@ -42,52 +42,52 @@ To our dismay, the zoo, gardens, and museum were all closing when we arrived, so
 
 <div class="carousel">
 	<figure>
-		<img alt="Vines on the side of an old building in Old Downtown Omaha" src="omaha-1.jpg" />
+		<img alt="Vines on the side of an old building in Old Downtown Omaha" src="../omaha-1.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="omaha-2.jpg" />
+		<img alt="" src="../omaha-2.jpg" />
 		<figcaption>
 			This shirt was $70.
 		</figcaption>
 	</figure>
 	<figure>
-		<img alt="" src="omaha-3.jpg" />
+		<img alt="" src="../omaha-3.jpg" />
 		<figcaption>
 			Underground "passageway" with more shops.
 		</figcaption>
 	</figure>
 	<figure>
-		<img alt="" src="omaha-4.jpg" />
+		<img alt="" src="../omaha-4.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="omaha-5.jpg" />
+		<img alt="" src="../omaha-5.jpg" />
 		<figcaption>
 			A neat garden with a bunch of scary heads
 		</figcaption>
 	</figure>
 	<figure>
-		<img alt="" src="omaha-6.jpg" />
+		<img alt="" src="../omaha-6.jpg" />
 		<figcaption>
 			One of the heads.
 		</figcaption>
 	</figure>
 	<figure>
-		<img alt="" src="omaha-7.jpg" />
+		<img alt="" src="../omaha-7.jpg" />
 		<figcaption>
 			Some more heads, spitting water this time.
 		</figcaption>
 	</figure>
 	<figure>
-		<img alt="An arch downtown" src="omaha-8.jpg" />
+		<img alt="An arch downtown" src="../omaha-8.jpg" />
 	</figure>
 	<figure>
-		<img alt="Many American flags in two rows in a garden" src="omaha-9.jpg" />
+		<img alt="Many American flags in two rows in a garden" src="../omaha-9.jpg" />
 	</figure>
 	<figure>
-		<img alt="Water flowing down steps into a small body of water" src="omaha-10.jpg" />
+		<img alt="Water flowing down steps into a small body of water" src="../omaha-10.jpg" />
 	</figure>
 	<figure>
-		<img alt="A swan" src="omaha-11.jpg" />
+		<img alt="A swan" src="../omaha-11.jpg" />
 	</figure>
 </div>
 
@@ -95,10 +95,10 @@ After walking around for about an hour we were getting pretty hungry so we grabb
 
 <div class="carousel">
 	<figure>
-		<img alt="Orsi's pizza" src="orsis-pizza.jpg" />
+		<img alt="Orsi's pizza" src="../orsis-pizza.jpg" />
 	</figure>
 	<figure>
-		<img alt="Omaha pedestrian bridge" src="omaha-ped-bridge.jpg" />
+		<img alt="Omaha pedestrian bridge" src="../omaha-ped-bridge.jpg" />
 	</figure>
 </div>
 
@@ -106,13 +106,13 @@ It was getting dark by then, so we finally went to check into our hotel. Despite
 
 <div class="carousel">
 	<figure>
-		<img alt="Our hotel in Omaha" src="aksarben-1.jpg" />
+		<img alt="Our hotel in Omaha" src="../aksarben-1.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="aksarben-2.jpg" />
+		<img alt="" src="../aksarben-2.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="aksarben-3.jpg" />
+		<img alt="" src="../aksarben-3.jpg" />
 	</figure>
 </div>
 

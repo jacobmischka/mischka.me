@@ -17,31 +17,31 @@ At around 3:30 we arrived. We checked into our hotel and left to find something 
 
 <div class="carousel">
 	<figure>
-		<img alt="Hearts spray painted into the sidewalk in Valentine" src="valentine-hearts.jpg" />
+		<img alt="Hearts spray painted into the sidewalk in Valentine" src="../valentine-hearts.jpg" />
 		<figcaption>
 			The sidewalks of Valentine's Main Street were covered in these pleasant little hearts.
 		</figcaption>
 	</figure>
 	<figure>
-		<img alt="Blueberry pie" src="candlelight-pie.jpg" />
+		<img alt="Blueberry pie" src="../candlelight-pie.jpg" />
 	</figure>
 </div>
 
 The ranger at the visitor's center told us the most fun thing to do was to kayak down the river to the tallest waterfall in the country, so our plan was to pay a visit the Reserve to look for bison and then see if we could rent a couple kayaks until dusk. We failed on both counts, we did not see any bison and the kayak rides last over 4 hours and the last one for the day pushes off at noon. Rats.
 
-![Berry bridge](berry-bridge.jpg)
+![Berry bridge](../berry-bridge.jpg)
 
 We drove back up the river to see a smaller and more accessible waterfall; descending a brief set of stairs was all required of us. A recently-erected fence prevented us from getting close enough to be showered in its waters, but we basked in its glory for a moment then continued along the trail. A quick stroll later we arrived at the falls' entry point to the river, which was a shallow shelf of rock nearly to the other end of the water. We abandoned our shoes and waded through the sub-foot deep clear water, taking in the beauty of the flowing water and the surrounding wilderness.
 
 <div class="carousel">
 	<figure>
-		<img alt="Niobrara river viewed from atop the shelf" src="niobrara-river-shelf-1.jpg" />
+		<img alt="Niobrara river viewed from atop the shelf" src="../niobrara-river-shelf-1.jpg" />
 	</figure>
 	<figure>
-		<img alt="Moss in the river" src="niobrara-river-shelf-2.jpg" />
+		<img alt="Moss in the river" src="../niobrara-river-shelf-2.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="niobrara-river-shelf-3.jpg" />
+		<img alt="" src="../niobrara-river-shelf-3.jpg" />
 	</figure>
 </div>
 
@@ -51,19 +51,19 @@ After another half hour or so in the Niobrara refuge we decided to spend the fin
 
 <div class="carousel">
 	<figure>
-		<img alt="Valentine refuge landscape" src="valentine-refuge-1.jpg" />
+		<img alt="Valentine refuge landscape" src="../valentine-refuge-1.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="valentine-refuge-2.jpg" />
+		<img alt="" src="../valentine-refuge-2.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="valentine-refuge-3.jpg" />
+		<img alt="" src="../valentine-refuge-3.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="valentine-refuge-4.jpg" />
+		<img alt="" src="../valentine-refuge-4.jpg" />
 	</figure>
 	<figure>
-		<img alt="" src="valentine-refuge-5.jpg" />
+		<img alt="" src="../valentine-refuge-5.jpg" />
 	</figure>
 </div>
 

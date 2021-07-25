@@ -5,7 +5,7 @@ date: 2016-04-21
 tags: archived
 ---
 
-![Acer Aspire E 15 E5-574G-52QU](laptop.jpg){:style="width: 100%;"}
+![Acer Aspire E 15 E5-574G-52QU](../laptop.jpg){:style="width: 100%;"}
 
 I've never had a new laptop before. I was in college when I got my first laptop, a used some Dell that I forget the name of, a rugged business laptop. It was heavy and slow but it did the job. I've always had a desktop, so I never needed a particularly good notebook. The Dell was enough to browse the web and edit text files for college classes, and that's all I needed.
 

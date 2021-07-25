@@ -9,17 +9,17 @@ Today was the first of our two-day stay in Eureka Springs.
 
 The complimentary continental breakfast at our motel didn't seem incredibly appetizing, so we left the motel at around 8:30 to find somewhere to get breakfast. Apparently, Wednesday is when a large number of the shops downtown take a day off, so it was a small challenge to find places to eat. We decided on the Main Street Café; it was a no-frills American breakfast diner with good service and decent food. I got biscuits and gravy with a slice of ham, listed on their menu as a local favorite.
 
-![Two servals](kitties.jpg)
+![Two servals](../kitties.jpg)
 
 After stopping to look in a few shops near the café and spend our money on souvenirs, we left for the [Turpentine Creek Wildlife Refuge][turpentine]. We arrived about an hour before our walking tour around the refuge began, and we were able to spend that time walking around in the self-guided area; we were able to see leopards, cougars, bears, tigers, servals, and a macaque monkey. It was incredibly hot, so most of them were just laying down in the shade and panting. We saw sleeping cougars, a tiger batting around an 80-pound ball, and a bear pacing in circles around his personal pool. Servals look a lot like overlarge house cats; they're adorable. The macaque was ancient at 29 years old; he looked like a grumpy man and mainly just sat and stared at us fumingly.
 
-![Macaque monkey](monkey.jpg)
+![Macaque monkey](../monkey.jpg)
 
 The guided tour was nice; our guide walked us around the edge of the refuge telling us the names and stories of the animals we passed. In addition to the breeds of animals we saw earlier we saw a lion, two ligers, a white tiger, and a cute little white-noised coati. We learned from the guide that Wisconsin is one of the five states where you can still legally own an exotic animal as a pet, interestingly.
 
 My grey shirt was noticeably soaking wet with sweat by the time our brief tour ended, so after leaving the refuge we headed back to the motel so I could change. On the way, we stopped at a gas station to quench our thirsts; it was there that we found the jewel of the south, the forbidden 60-ounce soft drink. It was breathtaking.
 
-![Giant 60-ounce soft drink cup](big-gulp.jpg)
+![Giant 60-ounce soft drink cup](../big-gulp.jpg)
 
 Our primary goal of the day being to be served by rabbits, we stopped next at [Caroline's Collectibles][carolines]. The rabbit there wasn't at the counter and who I presume to be Caroline seemed preoccupied, so we left to visit their downtown and therefore probably better location, East by West. We stopped in more downtown shops along the way—spending more money—and we got directions to the bunny store from the very nice woman working in one of them.
 
@@ -42,7 +42,7 @@ Tickets for the illusionist we had planned on seeing were sold out, so I bought 
 
 We arrived an hour and half before the tour started and made our order. The pizza took longer than we anticipated, so we were unable to finish it before we had to leave to join the rest of the tour group. Thankfully, they were kind enough to hold our leftover half-pizza for us while we took the tour. Before we left, a police officer came in to ticket our waiter for serving alcohol to two underage girls earlier in the day. Oops.
 
-![Crescent hotel exterior](crescent-hotel.jpg)
+![Crescent hotel exterior](../crescent-hotel.jpg)
 
 The tour was overall entertaining. The guide was a good speaker, and while her severity and certainty when talking about ghosts was a little ridiculous, I guess I can't expect her to do anything less when her job is to give ghost tours. More interesting than the tales of the ghosts that haunt the place was the hotel's related history. Being in a hotel-turned-quack-doctor's-hospital-turned-hotel-again is a lot more disturbing than the supposed spirits in the walls, in my opinion. Whether or not the hotel is actually haunted, it's a really cool place.
 

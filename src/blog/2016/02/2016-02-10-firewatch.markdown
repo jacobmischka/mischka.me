@@ -5,7 +5,7 @@ date: 2016-02-10
 tags: archived
 ---
 
-![Firewatch](firewatch.jpg){:style="width: 100%;"}
+![Firewatch](../firewatch.jpg){:style="width: 100%;"}
 
 Firewatch came out today.
 

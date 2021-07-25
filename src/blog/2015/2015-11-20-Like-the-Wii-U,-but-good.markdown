@@ -5,7 +5,7 @@ date: 2015-11-20
 tags: ['archived', 'video games']
 ---
 
-![Fallout 4 Pip Boy Addon](fallout-4-pip-boy.png)
+![Fallout 4 Pip Boy Addon](../fallout-4-pip-boy.png)
 
 Like the rest of the world, I've been playing Fallout 4. The game itself is very good, it's improved pretty much everything from 3, which I admittedly didn't like that much.
 

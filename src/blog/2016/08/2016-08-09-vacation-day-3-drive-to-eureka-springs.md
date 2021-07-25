@@ -18,7 +18,7 @@ Not long after heading out, we stopped for breakfast at a Waffle House. I'd neve
 
 Surrounding our few minutes back in Illinois, we crossed the Ohio and Mississippi rivers. It was slightly scary being over so much water on surprisingly narrow bridges, but it was even more enrapturing.
 
-![Lambert's Cafe](lamberts.jpg)
+![Lambert's Cafe](../lamberts.jpg)
 
 After a couple more hours on the road, although neither of us were very hungry yet, we passed a billboard advertising [Lambert's Cafe][lamberts] and their famous throwed rolls, and stopped at their Sikeston location soon after. I had a BBQ pork steak with baked beans, potato salad, and applesauce. All good. I also managed to catch both of the hot rolls that were _throwed_ at me, surprisingly.
 
@@ -30,7 +30,7 @@ About halfway through the drive we finished _Into the Wild_. The ending wasn't a
 
 Thus far, the drive had been pretty uneventful. A more scenic drive than our first day, there were many beautiful landscapes of forests, valleys, and hills. Though pretty, the drive itself wasn't particularly interesting. About two hours from our destination, that changed entirely. We began a series of ascents and drops over the gorgeous and hilly Missourian highways. After another hour or so, we left the multilane interstate for a much smaller and extremely curvy rural highway, and a few smalltown streets. Young cows peppered both sides of the road, and confederate flags decorated the locals' homes and trucks.
 
-![My poor, sunburned left leg and arm](my-poor-left-limbs.jpg)
+![My poor, sunburned left leg and arm](../my-poor-left-limbs.jpg)
 
 Ten hours, a sore right thigh and a very sunburned left arm and leg after leaving Cave City, Kentucky, we arrived at the Candlewick Inn in Eureka Springs. After checking into our motel room, we dined at the [Rowdy Beaver][rowdy-beaver]. Nothing particularly amazing, but a good meal. On our way back to the motel, we checked out downtown Eureka Springs. It's very pretty, I'm looking forward to checking it out tomorrow afternoon when the sun is still out and the shops are still open.
 
