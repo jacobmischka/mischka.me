@@ -1,4 +1,8 @@
+const rss = require('@11ty/eleventy-plugin-rss');
+
 module.exports = eleventyConfig => {
+	eleventyConfig.addPlugin(rss);
+
 	eleventyConfig.addShortcode('formatDate', date => {
 		// Hack to work around explicit dates being UTC and implicit dates being local
 		const formatter =

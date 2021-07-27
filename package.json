@@ -24,7 +24,7 @@
 	"homepage": "https://github.com/jacobmischka/mischka.me#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^0.11.1",
-		"@11ty/eleventy-plugin-rss": "^1.1.0",
+		"@11ty/eleventy-plugin-rss": "^1.1.1",
 		"@rollup/plugin-commonjs": "^19.0.1",
 		"@rollup/plugin-node-resolve": "^13.0.3",
 		"eslint": "^7.21.0",
